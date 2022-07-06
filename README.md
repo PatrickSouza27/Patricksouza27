@@ -15,7 +15,7 @@
 
 ```javascript
 const Patrick = {
-  front: [HTML5, CSS3, <!--Bootstrap,--> Javascript, <!--Angular-->],
+  front: [HTML5, CSS3, Javascript],
   code: [Python, Java, PHP, C++, C],
   dados: [Oracle, MySQL],
   tools: [React, Node],
