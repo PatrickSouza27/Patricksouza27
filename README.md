@@ -17,7 +17,7 @@
 const Patrick = {
   front: [HTML5, CSS3, Javascript],
   code: [Python, Typescript, C++, C],
-  dados: [Oracle, MySQL,SQL Server],
+  dados: [Oracle, MySQL,SQLServer],
   tools: [Node],
   architecture: ["microservices"],
   techCommunities: {
