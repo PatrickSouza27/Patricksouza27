@@ -16,8 +16,8 @@
 ```javascript
 const Patrick = {
   front: [HTML5, CSS3, Javascript],
-  code: [Python, Typescript, C++, C],
-  dados: [Oracle, MySQL,SQLServer],
+  code: [Python, Typescript, C++, C, <--C#-->],
+  dados: [Oracle, MySQL, SQLServer],
   tools: [Node],
   architecture: ["microservices"],
   techCommunities: {
