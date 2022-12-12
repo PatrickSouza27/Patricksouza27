@@ -1,6 +1,6 @@
 <h2>Patrick Souza <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h2>
 <img align='right' src="https://media2.giphy.com/media/Tki7sWHDoepb2/giphy.webp?cid=ecf05e4731jri3vcg7f6950aaqrqallp0l236zekczpcjfp1&rid=giphy.webp&ct=g" width="200">
-<p><em>Análise e Desenvolvimento de Sistemas SENAC-SC/Brusque📚</br>Developer full Stack Junior💻 
+<p><em>Análise e Desenvolvimento de Sistemas SENAC-SC/Brusque📚</br>Software Developer C# .NET Junior💻 
 </em></p>
 <div align="after">
   <a href="https://discord.gg/HAZARD#8394" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
