@@ -32,7 +32,7 @@ var Patrick = new SkillsBuilder()
     .Build()
     .Run(1);
     
-    Console.WriteLine("A parte mais importante do progresso é o desejo de progredir". -Sêneca);
+    Console.WriteLine("A parte mais importante do progresso é o desejo de progredir");
 ```
 
 <div align="center" valign="top"><br>
