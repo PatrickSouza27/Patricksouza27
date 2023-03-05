@@ -13,20 +13,26 @@
 
 ### "Todos nós fazemos escolhas na vida, mas no final nossas escolhas nos fazem" 
 
-```javascript
-const Patrick = {
-  front: [HTML5, CSS3, Javascript],
-  code: [Python, Javascript, C++, C, C#],
-  dados: [Oracle, MySQL, SQLServer],
-  tools: [Node, .NET, ASP.NET],
-  architecture: ["microservices"],
-  techCommunities: {
-                        Org: "Senac",
-                        City: "Brusque/SC",
-                        Gmail: "PatrickAquinodesouza@gmail.com"
-                      },
-  "A parte mais importante do progresso é o desejo de progredir". -Sêneca
-}  
+```C#
+var Patrick = new SkillsBuilder()
+    .Developer("Software Developer C# .NET Junior")
+    .UniversityEducationCourse("Analysis and systems development")
+    .ParseSkills(new()
+    {
+        new("Front-end").("HTML5", "CSS3", "Javascript"),
+        new("Code").("Python", "Javascript", "C++", "C", new MainLanguage(C#))
+        new("Data").("Oracle", "MySQL", new DatabaseUsed(SQLServer)),
+        new("tools").($"Node", .NET(), ASP.NET()),
+        new("architecture").(@"/Microsserviços");
+        new("ORM").($"{Entity Framework}, {Dapper}"),
+        new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud").Split(" / ");
+    })
+    .WriteToJsonFile("output.json")
+    .LogToConsole()
+    .Build()
+    .Run(1);
+    
+    Console.WriteLine("A parte mais importante do progresso é o desejo de progredir". -Sêneca);
 ```
 
 <div align="center" valign="top"><br>
