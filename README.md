@@ -25,7 +25,7 @@ var Patrick = new SkillsBuilder()
         new("tools").($"Node", .NET(), ASP.NET()),
         new("architecture").(@"/Microsserviços");
         new("ORM").($"{Entity Framework}, {Dapper}"),
-        new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud / Firebase").Split(" / ");
+        new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud / Firebase").Split();
     })
     .WriteToJsonFile("output.json")
     .LogToConsole()
@@ -46,9 +46,6 @@ var Patrick = new SkillsBuilder()
   <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
   <img align="center" alt="Csharp" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> 
-  
-  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
