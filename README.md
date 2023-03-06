@@ -1,4 +1,4 @@
-<h2>Patrick Souza</h2>
+<h1 align="center">Patrick Aquino de Souza</h1>
 <img align='right' src="https://media2.giphy.com/media/Tki7sWHDoepb2/giphy.webp?cid=ecf05e4731jri3vcg7f6950aaqrqallp0l236zekczpcjfp1&rid=giphy.webp&ct=g" width="200">
 <p><em>Análise e Desenvolvimento de Sistemas SENAC-SC/Brusque📚</br>Software Developer C# .NET Junior💻 
 </em></p>
