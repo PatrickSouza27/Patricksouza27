@@ -11,7 +11,7 @@
   <a href="patrickaquinodesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### "Todos nós fazemos escolhas na vida, mas no final nossas escolhas nos fazem" 
+##### "Demore o tempo que for para decidir o que você quer da vida, e depois que decidir não recue ante nenhum pretexto"
 
 ```C#
 var Patrick = new SkillsBuilder()
