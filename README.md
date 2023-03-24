@@ -11,7 +11,7 @@
   <a href="patrickaquinodesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##### "Demore o tempo que for para decidir o que você quer da vida, e depois que decidir não recue ante nenhum pretexto"
+#
 
 ```C#
 var Patrick = new SkillsBuilder()
@@ -32,7 +32,9 @@ var Patrick = new SkillsBuilder()
     .Build()
     .Run(1);
     
-    Console.WriteLine("A parte mais importante do progresso é o desejo de progredir");
+   "Demore o tempo que for para decidir o que você quer da vida," 
+     "E depois que decidir, Não recue ante nenhum pretexto"
+                    {Friedrich Nietzsche}
 ```
 
 <div align="center" valign="top"><br>
