@@ -11,9 +11,7 @@
   <a href="patrickaquinodesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-#
-
-```C#
+```javascript
 var Patrick = new SkillsBuilder()
     .Developer("Software Developer C# .NET Junior")
     .UniversityEducationCourse("Analysis and systems development")
@@ -23,6 +21,7 @@ var Patrick = new SkillsBuilder()
         new("Code").("Python", "Javascript", "C", new MainLanguage(C#))
         new("Data").("Oracle", "MySQL", new DatabaseUsed(SQLServer)),
         new("tools").($"Node", .NET(), ASP.NET()),
+        
         new("architecture").(@"/Microsserviços");
         new("ORM").($"{Entity Framework}, {Dapper}"),
         new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud").Split(" / ");
