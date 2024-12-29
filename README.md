@@ -18,7 +18,7 @@ var Patrick = new SkillsBuilder()
     .ParseSkills(new()
     {
         new("Front-end").("HTML5", "CSS3", "Javascript"),
-        new("Code").("Python", "Javascript", "C", new MainLanguage(C#))
+        new("Code").("Python", "Javascript", "C", new MainLanguage(C#)),
         new("Data").("Oracle", "MySQL", new DatabaseUsed(SQLServer)),
         new("tools").($"Node", .NET(), ASP.NET()),
         
