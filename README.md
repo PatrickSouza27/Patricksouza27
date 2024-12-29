@@ -21,7 +21,6 @@ var Patrick = new SkillsBuilder()
         new("Code").("Python", "Javascript", "C", new MainLanguage(C#)),
         new("Data").("Oracle", "MySQL", new DatabaseUsed(SQLServer)),
         new("tools").($"Node", .NET(), ASP.NET()),
-        
         new("architecture").(@"/Microsserviços");
         new("ORM").($"{Entity Framework}, {Dapper}"),
         new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud").Split(" / ");
