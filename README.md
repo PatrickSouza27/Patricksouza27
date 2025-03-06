@@ -1,7 +1,6 @@
 <h1 align="center">Patrick Aquino de Souza</h1>
 <img align='right' src="https://media2.giphy.com/media/Tki7sWHDoepb2/giphy.webp?cid=ecf05e4731jri3vcg7f6950aaqrqallp0l236zekczpcjfp1&rid=giphy.webp&ct=g" width="200">
-<p><em>Análise e Desenvolvimento de Sistemas SENAC-SC/Brusque📚</br>Software Developer C# .NET Junior💻 
-</em></p>
+Software Developer C# .NET💻 
 <div align="after">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -11,7 +10,7 @@
   <a href="patrickaquinodesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-```javascript
+```csharp
 var Patrick = new SkillsBuilder()
     .Developer("Software Developer C# .NET Junior")
     .UniversityEducationCourse("Analysis and systems development")
