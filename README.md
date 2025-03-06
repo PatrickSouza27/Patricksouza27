@@ -1,6 +1,5 @@
-<h1 align="center">Patrick Aquino de Souza</h1>
+<h1 align="center">Software Developer C# .NET💻 </h1>
 <img align='right' src="https://media2.giphy.com/media/Tki7sWHDoepb2/giphy.webp?cid=ecf05e4731jri3vcg7f6950aaqrqallp0l236zekczpcjfp1&rid=giphy.webp&ct=g" width="200">
-Software Developer C# .NET💻 
 <div align="after">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
