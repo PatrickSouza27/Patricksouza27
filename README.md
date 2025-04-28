@@ -21,7 +21,7 @@ var Patrick = new SkillsBuilder()
         new("tools").($"Node", .NET(), ASP.NET()),
         new("architecture").(@"/Microsserviços"),
         new("ORM").($"{Entity Framework}, {Dapper}"),
-        new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud").Split(" / ");
+        new("DevOps").("Git e Github / Azure / Docker / Oracle Cloud / AWS").Split(" / ");
     })
     .WriteToJsonFile("output.json")
     .LogToConsole()
